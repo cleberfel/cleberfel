@@ -1,6 +1,6 @@
 ## Olá, Devs! Eu sou Cleber 😁
 
-<p> Bem vindo ao meu perfi do Github! </p>
+<p> Bem vindo ao meu perfil do Github! </p>
 
 <p>Tenho 24 anos.</p>
 <p>Estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.</p>
