@@ -1,4 +1,11 @@
-## Bem-vindo(a) ao perfil do Cleber 😁
+## Olá, Devs! Eu sou Cleber 😁
+
+<p> Bem vindo ao meu perfi do Github! </p>
+
+<ul>
+  Tenho 24 anos.
+  Estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+</ul>
 
  <div>
    <a href="https://github.com/cleberfel">
