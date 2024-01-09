@@ -2,10 +2,8 @@
 
 <p> Bem vindo ao meu perfi do Github! </p>
 
-<ul>
-  Tenho 24 anos.
-  Estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
-</ul>
+<p>Tenho 24 anos.</p>
+<p>Estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.</p>
 
  <div>
    <a href="https://github.com/cleberfel">
